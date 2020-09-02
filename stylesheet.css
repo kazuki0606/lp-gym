@@ -2035,7 +2035,7 @@ flex: auto;
         .counseling-img{
           position: relative;
           padding-top: 320px;
-          background: url(img/counseling.jpg);
+          background-image: url(img/counseling.jpg);
           background-repeat: no-repeat;
           background-position: center top;
           background-size: cover;
